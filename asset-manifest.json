@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Stayselect/static/css/main.71aeb566.css",
+    "main.js": "/Stayselect/static/js/main.78ea0280.js",
+    "static/js/453.e8abaa65.chunk.js": "/Stayselect/static/js/453.e8abaa65.chunk.js",
+    "static/media/hostel.jpeg": "/Stayselect/static/media/hostel.2dc88a659ce6c3340d0b.jpeg",
+    "static/media/contact.jpeg": "/Stayselect/static/media/contact.99b12d8df8951203afc6.jpeg",
+    "static/media/welc.jpg": "/Stayselect/static/media/welc.3026fbe4d3ddcfa49da0.jpg",
+    "static/media/login.webp": "/Stayselect/static/media/login.daf96c8b4ef745a95ec8.webp",
+    "static/media/about.avif": "/Stayselect/static/media/about.0cea2e238773a32bc680.avif",
+    "index.html": "/Stayselect/index.html",
+    "main.71aeb566.css.map": "/Stayselect/static/css/main.71aeb566.css.map",
+    "main.78ea0280.js.map": "/Stayselect/static/js/main.78ea0280.js.map",
+    "453.e8abaa65.chunk.js.map": "/Stayselect/static/js/453.e8abaa65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71aeb566.css",
+    "static/js/main.78ea0280.js"
+  ]
+}
